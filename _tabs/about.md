@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+OSCP, OSED and AWS-certified, currently engaging in advanced penetration testing and code review. Proficient in computer networks and programming as well as shell scripting. Deeply passionate about the dynamic realms of offensive and application security.
+
+Pursuing OSCE3 (OSCP -> OSED -> OSWEing)
