@@ -1,6 +1,6 @@
 ---
 title: OSCP Review
-date: 2023-07-11 00:00:00
+date: 2023-07-11 00:00:00 +0700
 categories: [Certs]
 tags: [Penetration Testing, Priviledge Escalation, Active Directory]
 ---
@@ -16,7 +16,7 @@ OSCP, which stands for [Offensive Security Experienced Penetration Tester](https
 ### TimeLine
 1. 02/23/2024: started the course
 2. 07/02/2024: took the exam
-3. 07/09/2024: receive the badge
+3. 07/09/2024: received the badge
 
 ### Background
 As a bit of background for those who don't know, I'm a master student stuyding cyber security. However, I learned statistics and economics during my undergraduate. 
