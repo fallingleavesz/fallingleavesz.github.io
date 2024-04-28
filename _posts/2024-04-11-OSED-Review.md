@@ -1,6 +1,6 @@
 ---
 title: OSED Review
-date: 2024-04-11 00:00:00 +0800
+date: 2024-04-11 00:00:00 -0400
 categories: [Certs]
 tags: [Exploit Development, Binary Exploitation, Reverse Engineering]
 ---
