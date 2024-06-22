@@ -29,3 +29,5 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+plugins:
+  - jekyll-seo-tag
