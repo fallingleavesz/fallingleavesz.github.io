@@ -5,7 +5,6 @@ categories: [Certs]
 tags: [Penetration Testing, Antivirus Evasion, Active Directory Exploitation]
 ---
 
-## OSEP Review 2024
 
 ### Introduction
 The [Offensive Security Experienced Penetration Tester (OSEP)](https://www.offsec.com/courses/pen-300/) is an advanced penetration testing certification offered by OffSec, with a strong focus on client-side phishing, antivirus evasion, and Active Directory exploitation. In this blog, I will share my personal experience with the OSEP course, discussing my thoughts on the learning materials, labs, exam, and my overall impressions of the certification.
